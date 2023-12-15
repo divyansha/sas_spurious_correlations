@@ -1,1 +1,1 @@
-# sas_spurious_correlations
+# CS 260D Final Project Code
